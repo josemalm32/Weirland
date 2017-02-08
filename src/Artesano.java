@@ -4,7 +4,7 @@ public class Artesano extends Secundario{
 	String direccionTaller;
 	String especialidad;
 	
-	
+
 	
 	
 	
